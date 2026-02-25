@@ -1,16 +1,27 @@
 <h1 align="center">Hi 👋, I'm Gisela <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 
-<!--
-**GiseNiebozyn/GiseNiebozyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # 💫 About Me:
 
-Here are some ideas to get you started:
+## 💻 Full Stack Development Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning how to build complete web applications using .NET technologies.
+I learn by building real-world projects and improving them step by step.
+
+## 🚀 Technologies
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- HTML / CSS
+- Git & GitHub
+
+## 🛠️ Tools
+- Postman
+- Canva
+
+## 📂 Projects
+- 🚗 Car Rental API
+- 🍔 Pedido Express
+
+## 🎯 Goal
+Continue growing as a full stack developer and gain professional experience.
